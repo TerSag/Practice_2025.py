@@ -8,4 +8,4 @@ def log(message: str):
     sys.stderr.write(error_message)
 
 if __name__ == "__main__":
-    log("Це повідомлення логу йде у stderr.")
+    log("Це повідомлення логу йде y stderr.") 
